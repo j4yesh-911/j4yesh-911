@@ -21,7 +21,6 @@ Building scalable web and mobile applications with modern technologies.
 
 - 🎓 B.Tech CSE Student
 - 💻 Full Stack MERN Developer
-- 📱 React Native Developer
 - ☁️ Learning AWS, Docker & DevOps
 - 🔧 RHCSA Certified
 - 🚀 Interested in Cloud, Backend Development & System Design
