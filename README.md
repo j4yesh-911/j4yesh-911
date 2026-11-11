@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Gayri</h1>
-<h3 align="center">Full Stack MERN Developer | DevOps & Cloud Enthusiast | RHCSA Certified</h3>
+<h3 align="center"> MERN Stack Developer | DevOps & Cloud Enthusiast | RHCSA Certified</h3>
 
 <!-- <p align="center">
 Building scalable web and mobile applications with modern technologies.
